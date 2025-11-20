@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapExample</string>
+    <string name="calcular_ruta">Calcular Ruta</string>
+</resources>
